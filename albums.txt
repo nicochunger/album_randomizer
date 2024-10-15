@@ -21,8 +21,10 @@ Avantasia - Angel of Babylon
 Avantasia - The Wicked Symphony
 Avantasia - The Mystery of Time
 Avantasia - Moonglow
+Wintersun - Wintersun
 Wintersun - Time I
 Wintersun - The Forest Seasons
+Wintersun - Time II
 Equilibrium - Sagas
 Equilibrium - Erdentempel
 Equilibrium - Armageddon
@@ -65,7 +67,7 @@ Omnium Gatherum - Grey Heavens
 Omnium Gatherum - Beyond
 Amorphis - Under the Red Cloud
 Amorphis - Queen of Time
-Insomium - Shadows of the Dying Sun
+Insomnium - Shadows of the Dying Sun
 The Halo Effect - Days of the Lost
 Euphoreon - Ends of the Earth
 Follow the Cipher - Follow the Cipher
@@ -79,3 +81,12 @@ Borealis - The Offering
 Borealis - Illusions
 Alestorm - Sunset on the Golden Age
 Sabaton - The Last Stand
+Whispered - Shogunmate Macabre
+Whispered - "Metsutan - Songs of the Void"
+Fractal Gates - The Light That Shines
+Countless Skies - Glow
+Frosttide - "Decendents - Enshrined"
+Frosttide - Blood Oath
+Crepuscle - Heavenly Skies
+Frozen Shield - Ínia
+Ulthima - Symphony of the Night
