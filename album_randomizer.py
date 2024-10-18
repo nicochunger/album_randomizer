@@ -68,5 +68,21 @@ if __name__ == "__main__":
                         help='Show all the shown albums so far')
     parser.add_argument('--reset', action='store_true',
                         help='Reset the shown albums list')
+    parser.add_argument('--sort', action='store_true', help='Sort the albums list')
     args = parser.parse_args()
-    main(args.last, args.all, args.reset)
+
+    if args.sort:
+        with open('albums.txt', 'r') as album_file:
+            albums = [line.strip() for line in album_file]
+            albums.sort()
+        with open('albums.txt', 'w') as album_file:
+            for album in albums:
+                # Write each album to the file
+                if album == albums[-1]:
+                    # If the album is the last one, don't add a newline
+                    album_file.write(album)
+                else:
+                    album_file.write(album + '\n')
+        print("The albums list has been sorted.")
+    else:
+        main(args.last, args.all, args.reset)
