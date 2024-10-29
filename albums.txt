@@ -5,6 +5,7 @@ Amorphis - Queen of Time
 Amorphis - Under the Red Cloud
 Ancient Bards - A New Dawn Ending
 Ancient Bards - Soulless Child
+Animations - Animations
 Andre Matos - Time to Be Free
 Anthriel - The Pathway
 Atlas Pain - Tales of Pathfinder
@@ -64,7 +65,7 @@ Metallica - Black Album
 Metallica - Death Magnetic
 Metallica - Master of Puppets
 Metallica - Ride the Lighning
-Mind’s Eye - A gentleman’s Hurricane
+Mind’s Eye - A Gentleman’s Hurricane
 Moon Safari - Blomljud
 Moon Safari - Lover's End
 Nightwish - Dark Passion Play
@@ -73,6 +74,8 @@ Nightwish - Imaginearum
 Oceans of Time - Faces
 Omnium Gatherum - Beyond
 Omnium Gatherum - Grey Heavens
+Orden Ogan - To The End
+Pendragon - The Masquerade Overture
 Powerwolf - Blood of the Saints
 Sabaton - The Last Stand
 Satus Minor - Ouroboros
@@ -98,3 +101,31 @@ Wintersun - Time I
 Wintersun - Time II
 Wintersun - Wintersun
 Within Temptation - The Unforgiving
+Absynth Aura - Unbreakable
+Be'lakor - Of Breath and Bone
+Zaedyus - Santos Vega
+Fairyland - Score of a New Beginning
+Joe Satriani - Black Swans and Wormhole Wizards
+Joe Satriani - Surfing With The Alien
+Joe Satriani - Flying In A Blue Dream
+Joe Satriani - Super Colossal
+Jow Satriani - Cystal Planet
+Jason Becker - Perpetual Burn
+Tenacious D - The Pick Of Destiny
+Sum 41 - Underclass Hero
+Owl City - All Things Bright And Beautiful
+Sufosia - Inspiration Breakdown
+Ska P - Planeta Eskoria
+Ska P - Que Corra La Voz
+Ska P - Lagrimas Y Gozos
+In Flames - Sounds Of A Playground Falling
+James Labrie - Impermanent Resonance
+Above Symmetry - Ripples
+Neil Zaza - Sing
+Neil Zaza - Melodica
+Dreylands - Rooms Of Revelation
+La Vela Puerca - El Impulso
+La Vela Puerca - A Contraluz
+La Mancha de Rolando - Viaje
+Testament - The Ritual
+Testament - The Formation Of Damnation
