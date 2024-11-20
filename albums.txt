@@ -80,7 +80,7 @@ Powerwolf - Blood of the Saints
 Sabaton - The Last Stand
 Satus Minor - Ouroboros
 Seventh Wonder - Mercy Falls
-Seventh Wonder - Testament
+Seventh Wonder - The Testament
 Seventh Wonder - The Great Escape
 Seventh Wonder - Tiara
 Skyfire - Spectral
@@ -120,7 +120,6 @@ Ska P - Que Corra La Voz
 Ska P - Lagrimas Y Gozos
 In Flames - Sounds Of A Playground Falling
 James Labrie - Impermanent Resonance
-Above Symmetry - Ripples
 Neil Zaza - Sing
 Neil Zaza - Melodica
 Dreylands - Rooms Of Revelation
@@ -129,3 +128,4 @@ La Vela Puerca - A Contraluz
 La Mancha de Rolando - Viaje
 Testament - The Ritual
 Testament - The Formation Of Damnation
+Beyond The Bridge - The Old Man & The Spirit
