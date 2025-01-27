@@ -1,3 +1,4 @@
+Absynth Aura - Unbreakable
 Aether Realm - Redneck Vivkings from Hell
 Aether Realm - Tarot
 Alestorm - Sunset on the Golden Age
@@ -5,8 +6,8 @@ Amorphis - Queen of Time
 Amorphis - Under the Red Cloud
 Ancient Bards - A New Dawn Ending
 Ancient Bards - Soulless Child
-Animations - Animations
 Andre Matos - Time to Be Free
+Animations - Animations
 Anthriel - The Pathway
 Atlas Pain - Tales of Pathfinder
 Atlas Pain - What the Oak Left
@@ -17,9 +18,11 @@ Avantasia - The Scarecrow
 Avantasia - The Wicked Symphony
 Axenstar - Far From Heaven
 Ayreon - The Theory of Everything
-Battle Beast = Bringer of Pain
+Battle Beast - Bringer of Pain
+Be'lakor - Of Breath and Bone
 Beast in Black - Berserker
 Beast in Black - From Hell With Love
+Beyond The Bridge - The Old Man & The Spirit
 Borealis - Fall from Grace
 Borealis - Illusions
 Borealis - Purgatory
@@ -37,6 +40,7 @@ Dream Theater - A Dramatic Turn of Events
 Dream Theater - Black Clouds & Silver Linings
 Dream Theater - Dream Theater
 Dream Theater - Metropolis, Pt 2: Scenes From A Memory
+Dreylands - Rooms Of Revelation
 Equilibrium - Armageddon
 Equilibrium - Erdentempel
 Equilibrium - Renegades
@@ -52,10 +56,21 @@ Helloween - 7 Sinners
 Helloween - Keeper of the Seven Keys: The Legacy
 Helloween - The Dark Ride
 Illusion Suite - The Iron Cemetery
+In Flames - Sounds Of A Playground Falling
 Insomnium - Shadows of the Dying Sun
 Iron Maiden - Brave New World
 Iron Maiden - Dance of the Death
 Iron Maiden - Fear of the Dark
+James Labrie - Impermanent Resonance
+Jason Becker - Perpetual Burn
+Joe Satriani - Black Swans and Wormhole Wizards
+Joe Satriani - Flying In A Blue Dream
+Joe Satriani - Super Colossal
+Joe Satriani - Surfing With The Alien
+Jow Satriani - Cystal Planet
+La Mancha de Rolando - Viaje
+La Vela Puerca - A Contraluz
+La Vela Puerca - El Impulso
 Medaedth - ENDGAME
 Megadeth - Countdown To Extintion
 Megadeth - Rust In Peace
@@ -68,6 +83,8 @@ Metallica - Ride the Lighning
 Mind’s Eye - A Gentleman’s Hurricane
 Moon Safari - Blomljud
 Moon Safari - Lover's End
+Neil Zaza - Melodica
+Neil Zaza - Sing
 Nightwish - Dark Passion Play
 Nightwish - Endless Forms Most Beautiful
 Nightwish - Imaginearum
@@ -75,14 +92,18 @@ Oceans of Time - Faces
 Omnium Gatherum - Beyond
 Omnium Gatherum - Grey Heavens
 Orden Ogan - To The End
+Owl City - All Things Bright And Beautiful
 Pendragon - The Masquerade Overture
 Powerwolf - Blood of the Saints
 Sabaton - The Last Stand
 Satus Minor - Ouroboros
 Seventh Wonder - Mercy Falls
-Seventh Wonder - The Testament
 Seventh Wonder - The Great Escape
+Seventh Wonder - The Testament
 Seventh Wonder - Tiara
+Ska P - Lagrimas Y Gozos
+Ska P - Planeta Eskoria
+Ska P - Que Corra La Voz
 Skyfire - Spectral
 Sonata Arctica - Ecliptica
 Sonata Arctica - Pariah’s Child
@@ -90,7 +111,12 @@ Sonata Arctica - Silence
 Sonata Arctica - Stones Grow Her Name
 Stratovarius - Elysium
 Stratovarius - Polaris
+Sufosia - Inspiration Breakdown
+Sum 41 - Underclass Hero
 Temperance - Viridian
+Tenacious D - The Pick Of Destiny
+Testament - The Formation Of Damnation
+Testament - The Ritual
 The Halo Effect - Days of the Lost
 Tiluland - Axes of the Universe
 Ulthima - Symphony of the Night
@@ -101,31 +127,4 @@ Wintersun - Time I
 Wintersun - Time II
 Wintersun - Wintersun
 Within Temptation - The Unforgiving
-Absynth Aura - Unbreakable
-Be'lakor - Of Breath and Bone
 Zaedyus - Santos Vega
-Fairyland - Score of a New Beginning
-Joe Satriani - Black Swans and Wormhole Wizards
-Joe Satriani - Surfing With The Alien
-Joe Satriani - Flying In A Blue Dream
-Joe Satriani - Super Colossal
-Jow Satriani - Cystal Planet
-Jason Becker - Perpetual Burn
-Tenacious D - The Pick Of Destiny
-Sum 41 - Underclass Hero
-Owl City - All Things Bright And Beautiful
-Sufosia - Inspiration Breakdown
-Ska P - Planeta Eskoria
-Ska P - Que Corra La Voz
-Ska P - Lagrimas Y Gozos
-In Flames - Sounds Of A Playground Falling
-James Labrie - Impermanent Resonance
-Neil Zaza - Sing
-Neil Zaza - Melodica
-Dreylands - Rooms Of Revelation
-La Vela Puerca - El Impulso
-La Vela Puerca - A Contraluz
-La Mancha de Rolando - Viaje
-Testament - The Ritual
-Testament - The Formation Of Damnation
-Beyond The Bridge - The Old Man & The Spirit
