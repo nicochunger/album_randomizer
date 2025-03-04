@@ -52,6 +52,9 @@ Fractal Gates - The Light That Shines
 Frosttide - Blood Oath
 Frosttide - Decendents Enshrined
 Frozen Shield - Ínia
+Ghost - Infestissumam
+Ghost - Meliora
+Ghost - Prequelle
 Helloween - 7 Sinners
 Helloween - Keeper of the Seven Keys: The Legacy
 Helloween - The Dark Ride
@@ -66,19 +69,19 @@ Jason Becker - Perpetual Burn
 Joe Satriani - Black Swans and Wormhole Wizards
 Joe Satriani - Super Colossal
 Joe Satriani - Surfing With The Alien
-Jow Satriani - Cystal Planet
+Joe Satriani - Crystal Planet
 La Mancha de Rolando - Viaje
 La Vela Puerca - A Contraluz
 La Vela Puerca - El Impulso
-Medaedth - ENDGAME
-Megadeth - Countdown To Extintion
+Megadeth - ENDGAME
+Megadeth - Countdown To Extinction
 Megadeth - Rust In Peace
 Megadeth - Th1rt3en
 Megadeth - Youthanasia
 Metallica - Black Album
 Metallica - Death Magnetic
 Metallica - Master of Puppets
-Metallica - Ride the Lighning
+Metallica - Ride the Lightning
 Mind’s Eye - A Gentleman’s Hurricane
 Moon Safari - Blomljud
 Moon Safari - Lover's End
@@ -127,6 +130,3 @@ Wintersun - Time II
 Wintersun - Wintersun
 Within Temptation - The Unforgiving
 Zaedyus - Santos Vega
-Ghost - Infestissumam
-Ghost - Meliora
-Ghost - Prequelle
